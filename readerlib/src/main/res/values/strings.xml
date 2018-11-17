@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReaderLib</string>
+    <string name="logreader">/logreader</string>
+</resources>
